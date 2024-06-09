@@ -7,7 +7,7 @@ import React, { useEffect, useState } from 'react';
 
 export default function Home() {
     const [typedText, setTypedText] = useState('');
-    const text = 'Ueber James';
+    const text = 'Ueber';
     let letter = 0;
     let deleting = false;
 
