@@ -1,8 +1,8 @@
 # portfolio
 
-![Captura de tela 2024-06-09 114101](https://github.com/Ueber-James/portfolio/assets/89108972/b05c6e87-f5a8-49a2-9f7e-49b447401beb)
 
 
+![Captura de tela 2024-06-09 114226](https://github.com/Ueber-James/portfolio/assets/89108972/b0cff125-e9d3-4ec7-ae20-339bca73b6fe)
 
 
 ## Getting Started
